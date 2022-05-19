@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.31, created on 2022-04-24 18:08:43
+/* Smarty version 3.1.31, created on 2022-05-18 12:30:36
   from "cms_template:Simplex Footer" */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.31',
-  'unifunc' => 'content_6265760b71c920_07325733',
+  'unifunc' => 'content_6284cacc265361_54497508',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_6265760b71c920_07325733 (Smarty_Internal_Template $_smarty_tpl) {
+function content_6284cacc265361_54497508 (Smarty_Internal_Template $_smarty_tpl) {
 if (!is_callable('smarty_modifier_date_format')) require_once 'D:\\ROZNE\\blog_cms\\lib\\smarty\\plugins\\modifier.date_format.php';
 if (!is_callable('smarty_function_cms_version')) require_once 'D:\\ROZNE\\blog_cms\\lib\\plugins\\function.cms_version.php';
 ?>

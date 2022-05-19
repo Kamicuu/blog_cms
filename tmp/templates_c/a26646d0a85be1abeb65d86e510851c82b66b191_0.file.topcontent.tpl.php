@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.31, created on 2022-04-24 18:15:50
+/* Smarty version 3.1.31, created on 2022-05-18 12:31:08
   from "D:\ROZNE\blog_cms\admin\themes\OneEleven\templates\topcontent.tpl" */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.31',
-  'unifunc' => 'content_626577b6e07057_89657658',
+  'unifunc' => 'content_6284caec64c223_48569242',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_626577b6e07057_89657658 (Smarty_Internal_Template $_smarty_tpl) {
+function content_6284caec64c223_48569242 (Smarty_Internal_Template $_smarty_tpl) {
 ?>
 <div id="topcontent_wrap"><?php
 $_from = $_smarty_tpl->smarty->ext->_foreach->init($_smarty_tpl, $_smarty_tpl->tpl_vars['nodes']->value, 'node', false, NULL, 'box', array (

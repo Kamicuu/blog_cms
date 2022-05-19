@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.31, created on 2022-04-24 18:08:42
+/* Smarty version 3.1.31, created on 2022-05-18 12:30:35
   from "tpl_top:10" */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.31',
-  'unifunc' => 'content_6265760ae595e0_65933197',
+  'unifunc' => 'content_6284cacb75bec1_93330688',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_6265760ae595e0_65933197 (Smarty_Internal_Template $_smarty_tpl) {
+function content_6284cacb75bec1_93330688 (Smarty_Internal_Template $_smarty_tpl) {
 if (!is_callable('smarty_function_cms_lang_info')) require_once 'D:\\ROZNE\\blog_cms\\lib\\plugins\\function.cms_lang_info.php';
 if (!is_callable('smarty_function_uploads_url')) require_once 'D:\\ROZNE\\blog_cms\\lib\\plugins\\function.uploads_url.php';
 if (!is_callable('smarty_function_title')) require_once 'D:\\ROZNE\\blog_cms\\lib\\plugins\\function.title.php';

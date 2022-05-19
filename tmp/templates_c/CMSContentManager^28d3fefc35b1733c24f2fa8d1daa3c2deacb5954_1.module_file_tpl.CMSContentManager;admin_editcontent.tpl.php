@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.31, created on 2022-04-24 18:08:56
+/* Smarty version 3.1.31, created on 2022-05-17 00:19:47
   from "module_file_tpl:CMSContentManager;admin_editcontent.tpl" */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.31',
-  'unifunc' => 'content_626576184d9982_98680703',
+  'unifunc' => 'content_6282ce037375d9_61158382',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -20,13 +20,13 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_626576184d9982_98680703 (Smarty_Internal_Template $_smarty_tpl) {
+function content_6282ce037375d9_61158382 (Smarty_Internal_Template $_smarty_tpl) {
 $_smarty_tpl->smarty->ext->_tplFunction->registerTplFunctions($_smarty_tpl, array (
   'submit_buttons' => 
   array (
     'compiled_filepath' => 'D:\\ROZNE\\blog_cms\\tmp\\templates_c\\CMSContentManager^28d3fefc35b1733c24f2fa8d1daa3c2deacb5954_1.module_file_tpl.CMSContentManager;admin_editcontent.tpl.php',
     'uid' => '28d3fefc35b1733c24f2fa8d1daa3c2deacb5954',
-    'call_name' => 'smarty_template_function_submit_buttons_48611715062657618446134_16354555',
+    'call_name' => 'smarty_template_function_submit_buttons_10691619846282ce0369d515_93265383',
   ),
 ));
 if (!is_callable('smarty_function_admin_icon')) require_once 'D:\\ROZNE\\blog_cms\\admin\\plugins\\function.admin_icon.php';
@@ -355,9 +355,9 @@ $_smarty_tpl->smarty->ext->_foreach->restore($_smarty_tpl, 1);
 <?php echo smarty_function_form_end(array(),$_smarty_tpl);?>
 
 </div><?php }
-/* smarty_template_function_submit_buttons_48611715062657618446134_16354555 */
-if (!function_exists('smarty_template_function_submit_buttons_48611715062657618446134_16354555')) {
-function smarty_template_function_submit_buttons_48611715062657618446134_16354555($_smarty_tpl,$params) {
+/* smarty_template_function_submit_buttons_10691619846282ce0369d515_93265383 */
+if (!function_exists('smarty_template_function_submit_buttons_10691619846282ce0369d515_93265383')) {
+function smarty_template_function_submit_buttons_10691619846282ce0369d515_93265383($_smarty_tpl,$params) {
 foreach ($params as $key => $value) {
 $_smarty_tpl->tpl_vars[$key] = new Smarty_Variable($value, $_smarty_tpl->isRenderingCache);
 }?>
@@ -386,5 +386,5 @@ apply" value="<?php echo $_smarty_tpl->tpl_vars['mod']->value->Lang('apply');?>
 </p>
 <?php
 }}
-/*/ smarty_template_function_submit_buttons_48611715062657618446134_16354555 */
+/*/ smarty_template_function_submit_buttons_10691619846282ce0369d515_93265383 */
 }

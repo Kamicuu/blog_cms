@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.31, created on 2022-04-24 18:08:56
+/* Smarty version 3.1.31, created on 2022-05-17 00:19:48
   from "D:\ROZNE\blog_cms\admin\themes\OneEleven\templates\navigation.tpl" */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.31',
-  'unifunc' => 'content_62657618e012b6_86814979',
+  'unifunc' => 'content_6282ce046acb82_41180911',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_62657618e012b6_86814979 (Smarty_Internal_Template $_smarty_tpl) {
+function content_6282ce046acb82_41180911 (Smarty_Internal_Template $_smarty_tpl) {
 if (!isset($_smarty_tpl->tpl_vars['depth']->value)) {
 $_smarty_tpl->_assignInScope('depth', '0');
 }

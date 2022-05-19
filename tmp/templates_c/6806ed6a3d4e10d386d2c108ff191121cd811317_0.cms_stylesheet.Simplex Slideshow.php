@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.31, created on 2022-04-24 18:08:43
+/* Smarty version 3.1.31, created on 2022-05-18 12:30:36
   from "cms_stylesheet:Simplex Slideshow" */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.31',
-  'unifunc' => 'content_6265760bc90490_68263686',
+  'unifunc' => 'content_6284cacc8518e6_65154629',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_6265760bc90490_68263686 (Smarty_Internal_Template $_smarty_tpl) {
+function content_6284cacc8518e6_65154629 (Smarty_Internal_Template $_smarty_tpl) {
 ?>
 /* cmsms stylesheet: Simplex Slideshow modified: 24 April 2022 17:22:17 */
 .banner {background: #fefefe;background: url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiA/Pgo8c3ZnIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgdmlld0JveD0iMCAwIDEgMSIgcHJlc2VydmVBc3BlY3RSYXRpbz0ibm9uZSI+CiAgPGxpbmVhckdyYWRpZW50IGlkPSJncmFkLXVjZ2ctZ2VuZXJhdGVkIiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSIgeDE9IjAlIiB5MT0iMCUiIHgyPSIwJSIgeTI9IjEwMCUiPgogICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iI2ZlZmVmZSIgc3RvcC1vcGFjaXR5PSIxIi8+CiAgICA8c3RvcCBvZmZzZXQ9IjQ3JSIgc3RvcC1jb2xvcj0iI2YxZjFmMSIgc3RvcC1vcGFjaXR5PSIxIi8+CiAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiNlOWU5ZTkiIHN0b3Atb3BhY2l0eT0iMSIvPgogIDwvbGluZWFyR3JhZGllbnQ+CiAgPHJlY3QgeD0iMCIgeT0iMCIgd2lkdGg9IjEiIGhlaWdodD0iMSIgZmlsbD0idXJsKCNncmFkLXVjZ2ctZ2VuZXJhdGVkKSIgLz4KPC9zdmc+);background: -moz-linear-gradient(top,  #fefefe 0%, #f1f1f1 47%, #e9e9e9 100%);background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#fefefe), color-stop(47%,#f1f1f1), color-stop(100%,#e9e9e9));background: -webkit-linear-gradient(top,  #fefefe 0%,#f1f1f1 47%,#e9e9e9 100%);background: -o-linear-gradient(top,  #fefefe 0%,#f1f1f1 47%,#e9e9e9 100%);background: -ms-linear-gradient(top,  #fefefe 0%,#f1f1f1 47%,#e9e9e9 100%);background: linear-gradient(to bottom,  #fefefe 0%,#f1f1f1 47%,#e9e9e9 100%);}.lt-ie9 .banner {filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fefefe', endColorstr='#e9e9e9',GradientType=0 );}#sx-slides {position: relative;overflow: hidden;width: 100%;margin: 0 auto;position: relative;height: 380px;}#sx-slides > .sequence-canvas {height: 100%;width: 100%;margin: 0;padding: 0;list-style: none;}#sx-slides > .sequence-canvas > li {position: absolute;width: 100%;height: 100%;z-index: 1;top: -50%;}#sx-slides > .sequence-canvas > li img {height: 96%;}#sx-slides > .sequence-canvas li > * {position: absolute;-webkit-transition-property: left, bottom, right, top, -webkit-transform, opacity;-moz-transition-property: left, bottom, right, top, -moz-opacity;-ms-transition-property: left, bottom, right, top, -ms-opacity;-o-transition-property: left, bottom, right, top, -o-opacity;transition-property: left, bottom, right, top, transform, opacity;}#sx-slides .title {color: <?php echo $_smarty_tpl->tpl_vars['orange']->value;?>

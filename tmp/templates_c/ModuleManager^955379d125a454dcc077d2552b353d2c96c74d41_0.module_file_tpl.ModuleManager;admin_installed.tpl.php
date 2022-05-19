@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.31, created on 2022-04-24 18:05:06
+/* Smarty version 3.1.31, created on 2022-05-18 12:48:06
   from "module_file_tpl:ModuleManager;admin_installed.tpl" */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.31',
-  'unifunc' => 'content_62657532e75c53_43927521',
+  'unifunc' => 'content_6284cee6cb9514_70963109',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_62657532e75c53_43927521 (Smarty_Internal_Template $_smarty_tpl) {
+function content_6284cee6cb9514_70963109 (Smarty_Internal_Template $_smarty_tpl) {
 if (!is_callable('smarty_function_form_start')) require_once 'D:\\ROZNE\\blog_cms\\lib\\plugins\\function.form_start.php';
 if (!is_callable('smarty_function_cms_help')) require_once 'D:\\ROZNE\\blog_cms\\admin\\plugins\\function.cms_help.php';
 if (!is_callable('smarty_function_form_end')) require_once 'D:\\ROZNE\\blog_cms\\lib\\plugins\\function.form_end.php';

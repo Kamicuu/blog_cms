@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.31, created on 2022-04-24 18:17:13
+/* Smarty version 3.1.31, created on 2022-05-18 12:02:56
   from "module_file_tpl:News;articlelist.tpl" */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.31',
-  'unifunc' => 'content_6265780907e335_15206908',
+  'unifunc' => 'content_6284c45092dc11_68428846',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_6265780907e335_15206908 (Smarty_Internal_Template $_smarty_tpl) {
+function content_6284c45092dc11_68428846 (Smarty_Internal_Template $_smarty_tpl) {
 if (!is_callable('smarty_function_cms_help')) require_once 'D:\\ROZNE\\blog_cms\\admin\\plugins\\function.cms_help.php';
 if (!is_callable('smarty_function_html_options')) require_once 'D:\\ROZNE\\blog_cms\\lib\\smarty\\plugins\\function.html_options.php';
 if (!is_callable('smarty_cms_function_cms_action_url')) require_once 'D:\\ROZNE\\blog_cms\\lib\\plugins\\function.cms_action_url.php';
